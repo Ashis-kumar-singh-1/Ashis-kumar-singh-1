@@ -134,7 +134,7 @@
 
 <br/><br/>
 
-<i>✨ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> ✨</i>
+
 
 </div>
 
